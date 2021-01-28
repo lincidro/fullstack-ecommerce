@@ -10,4 +10,9 @@ public class SpringBootEcommerceApplication {
 		SpringApplication.run(SpringBootEcommerceApplication.class, args);
 	}
 
+	/**
+	 * To access to the repositories created we can use the next urls
+	 * http://localhost:8080/api/products
+	 * http://localhost:8080/api/product-category
+	 */
 }
